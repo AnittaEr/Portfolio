@@ -1,6 +1,6 @@
 # Portfolio Showcase
 
-A React application built with Vite to showcase the portfolio of a junior software engineer. This project demonstrates frontend development skills, component design, and algorithm implementations.
+A React application built with Vite to showcase my portfolio. This project demonstrates frontend development skills, component design, and algorithm implementations.
 
 ## Features
 
